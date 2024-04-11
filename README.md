@@ -12,13 +12,15 @@ I'm known as **JabobKrauskopf** on GitHub, a Software Engineer and Full Stack De
 
 I have a particular affinity for Rust, enjoying every bit of its performance and safety features.
 
-## 💼 Projects
+## 💼 Project Selection
 
 ### [MedModels](https://github.com/limebit/medmodels)
 As the Lead Software Engineer for MedModels, I am tasked with crafting the backend using Rust, leveraging my expertise in algorithm theory and clean code principles. This project is particularly dear to me as it allows me to showcase my skills in writing robust, maintainable code with effective CI/CD pipelines, furthering the capabilities of medical data analysis.
 
 ### [Open Discourse](https://opendiscourse.de/)
 As the Lead Developer on the Open Discourse project, my role involved transforming all plenary protocols of the German Bundestag since its inception in 1949 into a machine-readable format. This was the first project in my career, contributing significantly to my development.
+
+#### and many more
 
 ## 🌐 Socials
 
