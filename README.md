@@ -17,8 +17,8 @@ I have a particular affinity for Rust, enjoying every bit of its performance and
 ### [MedModels](https://github.com/limebit/medmodels)
 As the Lead Software Engineer for MedModels, I am tasked with crafting the backend using Rust, leveraging my expertise in algorithm theory and clean code principles. This project is particularly dear to me as it allows me to showcase my skills in writing robust, maintainable code with effective CI/CD pipelines, furthering the capabilities of medical data analysis.
 
-### [Open Discourse](https://opendiscourse.de/)
-As the Lead Developer on the Open Discourse project, my role involved transforming all plenary protocols of the German Bundestag since its inception in 1949 into a machine-readable format. This was the first project in my career, contributing significantly to my development.
+### [OpenDiscourse](https://opendiscourse.de/)
+As the Lead Developer on the OpenDiscourse project, my role involved transforming all plenary protocols of the German Bundestag since its inception in 1949 into a machine-readable format. This was the first project in my career, contributing significantly to my development.
 
 #### and many more
 
@@ -31,7 +31,3 @@ As the Lead Developer on the Open Discourse project, my role involved transformi
 ## 📚 What I'm Currently Working On
 
 I'm diving deep into Rust projects, particularly focusing on MedModels, enhancing healthcare analytics with the power of Rust.
-
-## 👴 Me
-
-![Cat wearing glasses sitting at computer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc0ZHg3NTI2cXdjZGZ3M3RvYzdiMHo1eDB4c3JzaHN6b3loMDFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy-downsized.gif)
